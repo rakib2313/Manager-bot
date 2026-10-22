@@ -1,11 +1,23 @@
-<div align="center">
+# Telegram AI Assistant Bot
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+একটি বুদ্ধিমান টেলিগ্রাম বট যা আপনার টেলিগ্রাম গ্রুপ বা চ্যানেলের ইউজারদের মেসেজ ও প্রশ্নের নিজ জ্ঞানে সঠিক উত্তর দিতে এবং ম্যানেজমেন্টে সহায়তা করতে এআই (AI) মডেল ব্যবহার করে।
 
-  <h1>Built with AI Studio</h2>
+## 🚀 ফিচারসমূহ
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+* **এআই-চালিত উত্তর:** ব্যবহারকারীদের যেকোনো সাধারণ বা প্রম্পট-ভিত্তিক প্রশ্নের প্রাসঙ্গিক উত্তর দিতে সক্ষম।
+* **গ্রুপ ও চ্যানেল ইন্টিগ্রেশন:** টেলিগ্রাম গ্রুপ বা চ্যানেলে স্বয়ংক্রিয়ভাবে কাজ করে।
+* **সহজ কনফিগারেশন:** নিজস্ব টেলিগ্রাম বট টোকেন এবং এআই এপিআই কি দিয়ে দ্রুত সেটআপ করা যায়।
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## 🛠️ প্রয়োজনীয় প্রযুক্তি
 
-</div>
+* Python / Node.js (প্রজেক্টের কাঠামোর উপর ভিত্তি করে)
+* Telegram Bot API
+* AI Model API (যেমন: Google Gemini API বা OpenAI API)
+
+## ⚙️ ইনস্টল এবং সেটআপ গাইড
+
+### ১. প্রজেক্ট ক্লোন করুন
+আপনার লোকাল পিসি বা সার্ভারে প্রজেক্টটি ক্লোন করুন:
+```bash
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+cd your-repo-name
