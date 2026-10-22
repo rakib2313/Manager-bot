@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- ডাইরেক্ট ইমেজ লিংক দিয়ে লোগো আপডেট করা হয়েছে -->
-  <img src="https://i.ibb.co/689L8Lp/1000040745.jpg" alt="Telegram AI Assistant Logo" width="130" height="130" style="border-radius: 50%;">
+  <!-- লোগো ইমেজের সেকশন -->
+  <img src="https://i.postimg.cc/689L8Lp/1000040745.jpg" onError="this.onerror=null;this.src='https://i.ibb.co/689L8Lp/1000040745.jpg';" alt="Telegram AI Assistant Logo" width="130" height="130" style="border-radius: 50%;">
 
   # 🤖 Telegram AI Assistant Bot
 
@@ -44,5 +44,5 @@
 
 ### ১. রিপোজিটরি ক্লোন করুন
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/Rakib2313/Manager-bot.git](https://github.com/Rakib2313/Manager-bot.git)
+cd Manager-bot
