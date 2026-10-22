@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- আপনার দেওয়া লিঙ্কটি ব্যবহার করে লোগো আপডেট করা হয়েছে -->
-  <img src="https://ibb.co.com/7J7Lr0Pj" alt="Telegram AI Assistant Logo" width="120" height="120">
+  <img src="https://ibb.co/7J7Lr0Pj" alt="Telegram AI Assistant Logo" width="120" height="120">
 
   # 🤖 Telegram AI Assistant Bot
 
