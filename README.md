@@ -1,6 +1,7 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Tencent/FastOCR/main/docs/images/logo.png" alt="Telegram AI Assistant Logo" width="120" height="120">
+  <!-- আপনার দেওয়া লিঙ্কটি ব্যবহার করে লোগো আপডেট করা হয়েছে -->
+  <img src="https://ibb.co.com/7J7Lr0Pj" alt="Telegram AI Assistant Logo" width="120" height="120">
 
   # 🤖 Telegram AI Assistant Bot
 
@@ -35,7 +36,7 @@
 | :--- | :--- |
 | **Python** | ব্যাকএন্ড লজিক ও প্রোগ্রামিং |
 | **python-telegram-bot** | টেলিগ্রাম এপিআই ইন্টিগ্রেশন |
-| **Google Gemini API** | প্রশ্ন বিশ্লেষণ ও উত্তর জেনারেট |
+| **Google Gemini API** | প্রশ্ন বিশ্লেষণ ও উত্তর জেনারেট (অথবা অন্য কোনো AI API) |
 
 ---
 
