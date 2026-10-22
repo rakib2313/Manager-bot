@@ -1,10 +1,9 @@
 <div align="center">
 
-  <!-- আপনার দেওয়া লিঙ্কটি ব্যবহার করে লোগো আপডেট করা হয়েছে -->
- <img src="https://i.ibb.co/XXXXX/logo.png" alt="Telegram AI Assistant Logo" width="120" height="120">
+  <!-- ডাইরেক্ট ইমেজ লিংক দিয়ে লোগো আপডেট করা হয়েছে -->
+  <img src="https://i.ibb.co/689L8Lp/1000040745.jpg" alt="Telegram AI Assistant Logo" width="130" height="130" style="border-radius: 50%;">
 
   # 🤖 Telegram AI Assistant Bot
-
 
   **একটি বুদ্ধিমান টেলিগ্রাম অ্যাসিস্ট্যান্ট বট যা আপনার গ্রুপ ও চ্যানেলে স্বয়ংক্রিয়ভাবে প্রশ্নের উত্তর দেবে।**
 
@@ -37,7 +36,7 @@
 | :--- | :--- |
 | **Python** | ব্যাকএন্ড লজিক ও প্রোগ্রামিং |
 | **python-telegram-bot** | টেলিগ্রাম এপিআই ইন্টিগ্রেশন |
-| **Google Gemini API** | প্রশ্ন বিশ্লেষণ ও উত্তর জেনারেট (অথবা অন্য কোনো AI API) |
+| **Google Gemini API** | প্রশ্ন বিশ্লেষণ ও উত্তর জেনারেট |
 
 ---
 
